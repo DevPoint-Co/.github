@@ -1,6 +1,6 @@
-# 🐞 Bug Hunters - Equipo de Desarrollo Web
+# DevPoint - Equipo de Desarrollo Web
 
-Bienvenido a **Bug Hunters**, un equipo de desarrolladores apasionados por crear **páginas web de alta calidad** para nuestros clientes.  
+Bienvenido a **DevPoint**, un equipo de desarrolladores apasionados por crear **páginas web de alta calidad** para nuestros clientes.  
 Nos especializamos en el desarrollo **frontend y backend**, ofreciendo soluciones **personalizadas** para todo tipo de proyectos digitales.
 
 ---
@@ -50,14 +50,14 @@ Siempre estamos en la búsqueda de **nuevas oportunidades para aprender y mejora
 ## 🤝 Únete a nosotros
 
 ¿Tienes una idea? ¡Nosotros la hacemos realidad!  
-En **Bug Hunters**, la **innovación**, la **creatividad** y el **trabajo en equipo** son la clave del éxito.  
+En **DevPoint**, la **innovación**, la **creatividad** y el **trabajo en equipo** son la clave del éxito.  
 Únete a un equipo dinámico donde cada miembro tiene la oportunidad de crecer y dejar su huella en el mundo digital.
 
-📧 **Contáctanos:** [info@bughunters.dev](bughunters.startup@gmail.com)  
-🌐 **Sitio web:** [bughunters.dev](https://bughunters.dev) 
-🐙 **GitHub:** [github.com/Bug-Hunters](https://github.com/Bug-Hunters)
+📧 **Contáctanos:** [info@devpoint.dev](devpoint.hub@gmail.com)  
+🌐 **Sitio web:** [devpoint.app](https://devpoint.app) 
+🐙 **GitHub:** [github.com/DevPoint-Co](https://github.com/DevPoint-Co)
 
 ---
 
-> _"Cazamos errores, creamos soluciones."_  
-> **— El equipo de Bug Hunters 🐞**
+> _"Creamos soluciones."_  
+> **— El equipo de DevPoint**
